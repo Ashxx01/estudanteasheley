@@ -1,5 +1,6 @@
 Boas vindas ao meu perfil 💜💜
-Asheley Rolemberg 
+
+Meu nome é Asheley Rolemberg 
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
